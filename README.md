@@ -18,7 +18,7 @@ mvn clean install
 java -jar  customer-transfer-job-0.0.1-SNAPSHOT.jar
 
 Or directly run jar file with the command above.
-if you want to run application with intellij idea you should start application with the following program argument:
+If you want to run application with intellij idea you should start application with the following program argument:
 
   --Dtimestamp=product
 
