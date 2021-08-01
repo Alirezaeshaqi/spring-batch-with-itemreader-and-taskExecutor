@@ -1,0 +1,15 @@
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/domain/Customer.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/readers/SynchronizedItemReaderDecorator.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/Constant/ProcessConstant.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/services/Sequences.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/configuration/JobConfiguration.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/proccessor/FilteringItemProcessor.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/partition/RangePartitioner.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/mapper/CustomerFieldSetMapper.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/domain/InvocationContext.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/configuration/Config.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/services/CustomerService.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/domain/ItemWriterDto.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/listeners/DatabaseAlterSequenceListener.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/mapper/CustomerRowMapper.java
+/home/alireza/Projects/customerTransferMigrationDelta - Copy/src/main/java/io/spring/batch/DatabaseOutputApplication.java

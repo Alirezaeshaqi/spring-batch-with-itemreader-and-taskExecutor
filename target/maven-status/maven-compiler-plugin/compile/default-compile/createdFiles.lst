@@ -1,0 +1,16 @@
+io/spring/batch/domain/InvocationContext.class
+io/spring/batch/domain/ItemWriterDto.class
+io/spring/batch/partition/RangePartitioner.class
+io/spring/batch/configuration/JobConfiguration$InsertCustomerCompositeItemWriter.class
+io/spring/batch/Constant/ProcessConstant.class
+io/spring/batch/domain/Customer.class
+io/spring/batch/services/Sequences.class
+io/spring/batch/mapper/CustomerFieldSetMapper.class
+io/spring/batch/listeners/DatabaseAlterSequenceListener.class
+io/spring/batch/services/CustomerService.class
+io/spring/batch/configuration/JobConfiguration.class
+io/spring/batch/mapper/CustomerRowMapper.class
+io/spring/batch/configuration/Config.class
+io/spring/batch/proccessor/FilteringItemProcessor.class
+io/spring/batch/DatabaseOutputApplication.class
+io/spring/batch/readers/SynchronizedItemReaderDecorator.class
