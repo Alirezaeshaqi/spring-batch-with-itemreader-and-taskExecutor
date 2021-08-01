@@ -3,7 +3,7 @@
 In this project I'm demonstrating you the most significatnt and interesting features of spring batch for building microservices based on springboot.The version of springboot that I used in this project is 2.1.7.RELEASE
 
 
-In this article I demonstrate how to use spring batch to run multithread and also multi-partitioned job.
+This application is multithread and also multi-partitioned job.
 The process starts by reading some lines from user tables.after parsing lines and extract important information,our application implmenets some business based on stored data and stores data into database.All of the processess are multi-partioned,from reading to executing query and fetches are based on chunk size.
 
 <h2> Prerequisites </h2>
